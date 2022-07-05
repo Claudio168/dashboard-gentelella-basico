@@ -1,0 +1,10 @@
+{
+  "projectName": "app1",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "php"
+  },
+  "hash": "61c54cc6"
+}
